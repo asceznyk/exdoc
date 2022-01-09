@@ -1,0 +1,22 @@
+{
+  "name": "exdoc",
+  "version": "1.0.0",
+  "description": "a simple example app created for learning docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asceznyk/exdoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asceznyk/exdoc/issues"
+  },
+  "homepage": "https://github.com/asceznyk/exdoc#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
